@@ -1,0 +1,30 @@
+/* Kommentar: Stilmallar för rubriker */
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Kommentar: Stilmall för övrig text */
+body, p {
+    font-family: Candara, Verdana, sans-serif;
+}
+
+/* Kommentar: Bakgrundsfärg för Tabell 1 */
+.tabell1 {
+    background-color: #ffcccc;
+}
+
+/* Kommentar: Bakgrundsfärg för Tabell 2 */
+.tabell2 {
+    background-color: #ffcc99;
+}
+
+/* Kommentar: Färg på texten längst ner */
+#source {
+    color: #009900;
+}
+
+/* Kommentar: Länkfärg när muspekaren är över länken */
+a:hover {
+    color: #ffffff; /* Ändrar textfärg vid hover */
+    background-color: #ffcc99; /* Ändrar bakgrundsfärg vid hover */
+}
